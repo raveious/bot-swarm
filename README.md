@@ -1,1 +1,7 @@
-# bot-swarm
+# Bot Swarm
+
+## Requirements
+
+## Compiling
+
+## Execution
